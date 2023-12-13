@@ -1,4 +1,4 @@
-ClassicEditor
+RichClassicEditor
 	.create( document.querySelector( '.editor' ), {
 		// Editor configuration.
 	} )

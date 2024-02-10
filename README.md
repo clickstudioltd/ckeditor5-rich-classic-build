@@ -5,7 +5,7 @@ This repository presents a CKEditor 5 classic editor build with most of the free
 You can install this repository as an `npm` package:
 
 ```
-npm install git+https://github.com/clickstudioltd/ckeditor5-rich-classic-build
+npm install --save git+https://github.com/clickstudioltd/ckeditor5-rich-classic-build
 ```
 
 And import it just like the classic build:
